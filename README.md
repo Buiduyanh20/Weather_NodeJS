@@ -4,6 +4,6 @@
 
 ### Tech Stacks : Node JS, Express JS, JS, CSS.
 
-### Author: Tanisha Chandra
-## July, 2022
+### Author: Bùi Duy Anh
 
+## March, 2024
