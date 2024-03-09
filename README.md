@@ -9,3 +9,12 @@
 ### Author: Bùi Duy Anh
 
 ## March, 2024
+
+Home View
+
+![Home](https://github.com/Buiduyanh20/Weather_NodeJS/assets/113623522/2d5be238-b030-461a-b9ac-ace9bd806a0c)
+
+
+Seach View
+
+![check](https://github.com/Buiduyanh20/Weather_NodeJS/assets/113623522/b26f8e36-9897-4e96-8687-802f456179fe)
